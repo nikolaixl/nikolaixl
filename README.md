@@ -13,4 +13,7 @@ Hello! I'm Jenz Piñas, passionate about technology and programming. I'm on the 
 <li>📊 Data science and analysis</li>
 <li>🤖 Artificial Intelligence and Machine Learning</li>
 </ul>
-<h2></h2>
+<div>
+    <img src="(https://github.com/nikolaixl/nikolaixl/assets/144570291/b99ce2d1-3045-49ca-aa86-15f42843d470)https://github.com/nikolaixl/nikolaixl/assets/144570291/b99ce2d1-3045-49ca-aa86-15f42843d470f"  alt="">
+
+</div>
